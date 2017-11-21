@@ -1,0 +1,14 @@
+Contents:
+a doubly linked list with the following functionalities:
+1. insert at front
+2. print
+3. sort (using the merge sort algorithm)
+
+problems:
+1. no delete functionality as of yet
+2. no insert an N functionality
+3. when applying merge sort, lose track of one of the pPrev pointers and breaks the backwards link.
+
+plans (11/21):
+1. add deletion
+2. add insert at N
